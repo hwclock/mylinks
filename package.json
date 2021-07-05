@@ -1,0 +1,22 @@
+{
+  "name": "myurls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api": "nodemon api/api.js",
+    "start": "nodemon frontend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.9",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "name": "google",
+      "content": "http://google.com"
+    },
+    {
+      "name": "youtube",
+      "content": "http://youtube.com"
+    },
+    {
+      "name": "node",
+      "content": "http://nodejs.org"
+    }
+  ]
+}
